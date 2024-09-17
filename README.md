@@ -1,6 +1,6 @@
 ![logo](https://github.com/Ramprawesh6511/Ramprawesh6511/blob/main/Cover%20photo.webp)
 <h1 align="center">Hi 👋, I'm Ramprawesh kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software Engineer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.istockphoto.com/id/1413922045/vector/programming-at-home.jpg?s=612x612&w=0&k=20&c=_5UhZu0-etj-lWZorNUAkF_PEqXfHpuf44dCeWeCOvc=">
 
