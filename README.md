@@ -1,4 +1,4 @@
-![logo](https://github.com/Ramprawesh6511/Ramprawesh6511/blob/main/Cover%20photo.webp)
+![logo](https://github.com/Ramprawesh6511/Ramprawesh6511/blob/main/Black%20Gold%20Minimalist%20Elegant%20Business%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Ramprawesh kumar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
