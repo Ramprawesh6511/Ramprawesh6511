@@ -1,4 +1,4 @@
-![logo](https://github.com/Ramprawesh6511/Ramprawesh6511/blob/main/Black%20Gold%20Minimalist%20Elegant%20Business%20LinkedIn%20Banner.png)
+![logo](https://github.com/Ramprawesh6511/Ramprawesh6511/blob/main/WhatsApp Image 2026-08-09 at 1.14.43 PM.jpeg)
 
 <h1 align="center">Hi 👋, I'm Ramprawesh Kumar</h1>
 <h3 align="center">Software Test Engineer | Manual & Automation Testing</h3>
